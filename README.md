@@ -41,7 +41,7 @@ Java (read both source & target file names & check for their existence/ non – 
 appropriate actions).<br>
 ⚠️**TO BE ADDED** 4.3 ) Write a Java program to copy Content of One File (existing file) to another (create new) 
 File (character-by-character / line-by-line) and compare the properties of both files.<br>
-⚠️**TO BE ADDED** 4.4 ) Write a Java program to get the attributes of a specified file.
+4.4 ) Write a Java program to get the attributes of a specified file.
 
 ### Problem Statement 5
 5. Write a Java Program to demonstrate the implementation of Multithreading.<br>
