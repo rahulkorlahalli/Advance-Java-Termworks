@@ -31,7 +31,7 @@ Java.
 
 ### Problem Statement 4
 4. Write a Java Program to demonstrate the implementation of File I/O operations in Java.<br>
-<font color="green">**TO BE ADDED**</font> 4.1 ) Write a Java program to create a file and perform various operations that are available. 
+⚠️**TO BE ADDED** 4.1 ) Write a Java program to create a file and perform various operations that are available. 
 Write user-specified content to the file and re-do the operations.<br> 
 4.2 ) Write a menu driven Java program to read contents of a file and :
 a) print characters on the console – one character at a time
@@ -39,9 +39,9 @@ b) print the entire file
 c) print contents to another file.
 Java (read both source & target file names & check for their existence/ non – existence to take 
 appropriate actions).<br>
-<font color="green">**TO BE ADDED**</font> 4.3 ) Write a Java program to copy Content of One File (existing file) to another (create new) 
+⚠️**TO BE ADDED** 4.3 ) Write a Java program to copy Content of One File (existing file) to another (create new) 
 File (character-by-character / line-by-line) and compare the properties of both files.<br>
-<font color="green">**TO BE ADDED**</font> 4.4 ) Write a Java program to get the attributes of a specified file.
+⚠️**TO BE ADDED** 4.4 ) Write a Java program to get the attributes of a specified file.
 
 ### Problem Statement 5
 5. Write a Java Program to demonstrate the implementation of Multithreading.<br>
@@ -54,13 +54,13 @@ in ascending (thread 1) and descending (thread 2).<br>
 6. Write a Java Program to demonstrate the implementation of Synchronization in Java.<br> 
 6.1) Write a Java program to demonstrate how the standard operations on a "Stack" can be 
 synchronized.<br>
-<font color="green">**TO BE ADDED**</font> 6.2) Write a Java program to demonstrate how the standard operations on a bank account can 
+⚠️**TO BE ADDED** 6.2) Write a Java program to demonstrate how the standard operations on a bank account can 
 be synchronized.
 
 ### Problem Statement 7
 7. Write a Java Program to demonstrate the implementation of JDBC packages in Java. <br>
 7.1) Program to insert, update, delete & select records from a given table (can be any simple
 table).<br>
-<font color="green">**TO BE ADDED**</font> 7.2) Program to execute SQL query on a single table.<br>
-<font color="green">**TO BE ADDED**</font> 7.3) Program to execute SQL query using joins on tables.<br>
-<font color="green">**TO BE ADDED**</font> 7.4) Program to demonstrate transaction processing
+⚠️**TO BE ADDED** 7.2) Program to execute SQL query on a single table.<br>
+⚠️**TO BE ADDED** 7.3) Program to execute SQL query using joins on tables.<br>
+⚠️**TO BE ADDED** 7.4) Program to demonstrate transaction processing
