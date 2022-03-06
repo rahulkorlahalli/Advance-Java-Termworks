@@ -14,7 +14,7 @@ public class Termwork7_1 {
         String sem1,sem2,sem3,sem4;
         Scanner sc = new Scanner(System.in);
         Class.forName("oracle.jdbc.driver.OracleDriver");
-        Connection con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521/XE","c##rahul","rahul03");//Add the oracle database Username & Password
+        Connection con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521/XE","user","password");//Add the oracle database Username & Password
         while(true){
             System.out.println("\n-\t-\t- MENU -\t-\t-");
             System.out.println("1.Insert new student details with CGPA scored in 4 semesters");

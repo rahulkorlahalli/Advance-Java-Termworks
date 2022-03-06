@@ -14,11 +14,11 @@ public class Termwork4_4 {
         path = "C:\\Users\\Rahul\\Desktop\\Advance Java\\" + fname; 
         File f = new File(path);
         System.out.println("Name of the File:" + f.getName());
-        System.out.println("Is Readable?: " + f.canRead());
-        System.out.println("Is writeable?: " + f.canWrite());
         System.out.println("Path of File: "+f.getPath());
         System.out.println("Is it a directory?: " + f.isDirectory());
         System.out.println("Length of File in bytes: "+f.length());
+        System.out.println("Last Modified time: " +  f.lastModified());
+        System.out.println("Is Hidden?: " + f.isHidden());
         sc.close();
     }
 }
